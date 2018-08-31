@@ -5,7 +5,7 @@ image:
   dbTag: 3.3
 ingress:
   enabled: true
-  host: acme.com
+  host: 18.220.7.169.nip.io
 service:
   # Change to NodePort if ingress.enable=false
   type: ClusterIP
